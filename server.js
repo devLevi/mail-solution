@@ -9,7 +9,7 @@ const port = process.env.PORT || 3000;
 app.use(express.static('public'));
 
 app.get('/', (req, res) => {
-  res.sendFile('/email/pet-email/index.pug', { root: __dirname });
+  res.sendFile('./emails/pet-email/index.html', { root: __dirname });
 });
 
 // Start the Express server
