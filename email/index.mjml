@@ -1,0 +1,93 @@
+<mjml>
+  <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
+    <mj-section background-color="#fa8739" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="5px" padding-top="5px" padding="10px 25px">
+          <p style="line-height: 38px; margin: 5px 0; text-align: center; color:#F4F4F4; font-size:40px; font-family:Arial,sans-serif">DOGS vs CATS</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fa8739" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center" vertical-align="top">
+
+      <mj-column>
+        <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="15px" padding-left="40px" padding-right="40px" padding-top="10px" padding="10px 25px">
+          <p style="line-height: 25px; margin: 10px 0;font-size:20px; font-family:Arial,sans-serif; color:#F4F4F4">Who is our best friend? Let's Decide!</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="0px" padding="10px 10px" border-radius="15px" src="https://i.imgur.com/7TDRdM3.jpg" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="left" vertical-align="top">
+
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="10px" padding="10px">
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Arial,sans-serif; color:#354552"><b>The love you get from a dog is unlike anything else in the world, purer than human love.</b></p>
+          <p style="font-size: 16px; line-height: 12px; color:#59BB51 "><span>&#10003;</span> Loyal</p>
+          <p style="font-size: 16px; line-height: 12px;  color:#59BB51"><span>&#10003;</span> Playful</p>
+          <p style="font-size: 16px; line-height: 12px; color:#59BB51"><span>&#10003;</span> Your Friend</p>
+        </mj-text>
+        <mj-button background-color="#59BB51" font-size="16px" href="https://en.wikipedia.org/wiki/Dog"> Learn More</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px" border-radius="15px" src="https://i.imgur.com/xOk5uk0.jpg" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="10px" padding-top="0px" padding="20px 0" text-align="left" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" border-radius="15px" src="https://i.imgur.com/Fv22dEh.jpg" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Arial,sans-serif; color:#354552"><b>Cats are independent, so they're good pets to have if you don't have
+              too much time at home to devote to one.</b></p>
+          <p style="font-size: 16px; line-height: 12px; color:#59BB51 "><span>&#10003;</span> Independent</p>
+          <p style="font-size: 16px; line-height: 12px;  color:#59BB51"><span>&#10003;</span> Quiet Love</p>
+          <p style="font-size: 16px; line-height: 12px; color:#59BB51"><span>&#10003;</span> Maintenance</p>
+        </mj-text>
+        <mj-button background-color="#59BB51" font-size="16px" href="https://en.wikipedia.org/wiki/Cat"> Learn More</mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#fa8739" padding-bottom="0px" padding-top="0">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <p style="font-size: 27px;">BUT YOU WERE WRONG</p>
+          <p style="font-size: 14px;"><b>TURTLES FTW</b></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="left" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px" border-radius="15px" src="https://i.imgur.com/Ju4KQ0X.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="10px" padding="10px">
+          <p style="font-size: 16px; line-height: 12px; color:#fa8739 "><span>&#10003;</span> Easy Care</p>
+          <p style="font-size: 14px; line-height: 12px;  color:#59BB51">Can eat dried food, live food, or pizza</p>
+          <p style="font-size: 16px; line-height: 12px;  color:#fa8739"><span>&#10003;</span> Saves the World</p>
+          <p style="font-size: 14px; line-height: 14x;  color:#59BB51">While you pick up dog poop</p>
+          <p style="font-size: 16px; line-height: 16px; color:#fa8739"><span>&#10003;</span> Get Along with Other Animals</p>
+          <p style="font-size: 14px; line-height: 14px;  color:#59BB51">Especially rats</p>
+          <p style="font-size: 16px; line-height: 12px; color:#fa8739"><span>&#10003;</span> Heroes in a Half Shell</p>
+          <p style="font-size: 14px; line-height: 14px;  color:#59BB51">With cool names like Leonardo, Michelangelo, Donatello, and Raphael</p>
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-button background-color="#59BB51" font-size="16px" href="https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles"> Learn More</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding="10px 25px" src="https://i.imgur.com/amZvbDQ.png" target="_blank" width="40px" href="https://devlevi.github.io/"></mj-image>
+        <mj-social align="center">
+          <mj-social-element name="github"></mj-social-element>
+          <mj-social-element name="linkedin"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
